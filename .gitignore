@@ -1,0 +1,10 @@
+skritastevilka = 6421
+
+while True:
+    skritastevilka = raw_input ("Ugani stevilko: ")
+
+    if skritastevilka == "6421":
+        print ("Cestitke! Uganili ste skrito stevilo!")
+
+    else:
+        print ("Zal ste vnesli napacno stevilo.")
