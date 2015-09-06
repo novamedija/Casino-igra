@@ -1,10 +1,12 @@
+# -*- coding: <utf-8> -*-
+
 skritastevilka = 6421
 
 while True:
-    skritastevilka = raw_input ("Ugani stevilko: ")
+    skritastevilka = raw_input("Ugani številko: ")
 
     if skritastevilka == "6421":
-        print ("Cestitke! Uganili ste skrito stevilo!")
+        print ("Čestitke! Uganili ste skrito število!")
 
     else:
-        print ("Zal ste vnesli napacno stevilo.")
+        print ("Žal ste vnesli napačno število.")
